@@ -25,5 +25,5 @@ dependencyResolutionManagement {
 rootProject.name = "MyApplication"
 include(":app")
 include(":BUOI_4")
-include(":BUOI_2")
 include(":BUOI_3")
+include(":BUOI_06:app")

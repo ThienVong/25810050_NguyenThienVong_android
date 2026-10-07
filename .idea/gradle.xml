@@ -9,7 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/BUOI_2" />
+            <option value="$PROJECT_DIR$/BUOI_06" />
+            <option value="$PROJECT_DIR$/BUOI_06/app" />
             <option value="$PROJECT_DIR$/BUOI_3" />
             <option value="$PROJECT_DIR$/BUOI_4" />
             <option value="$PROJECT_DIR$/app" />

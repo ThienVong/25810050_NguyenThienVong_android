@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "edu.hcmute.buoi_06.app-debug-35:/drawable_image9.xml.flat",
+        "source": "edu.hcmute.buoi_06.app-main-37:/drawable/image9.xml"
+    },
+    {
+        "merged": "edu.hcmute.buoi_06.app-debug-35:/drawable_images.jpg.flat",
+        "source": "edu.hcmute.buoi_06.app-main-37:/drawable/images.jpg"
+    },
+    {
+        "merged": "edu.hcmute.buoi_06.app-debug-35:/drawable_image6.xml.flat",
+        "source": "edu.hcmute.buoi_06.app-main-37:/drawable/image6.xml"
+    }
+]

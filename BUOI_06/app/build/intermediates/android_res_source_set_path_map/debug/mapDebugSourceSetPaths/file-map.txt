@@ -1,0 +1,8 @@
+edu.hcmute.buoi_06.app-pngs-0 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\build\generated\res\pngs\debug
+edu.hcmute.buoi_06.app-updated_navigation_xml-1 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\build\generated\updated_navigation_xml\debug
+edu.hcmute.buoi_06.app-packageDebugResources-2 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+edu.hcmute.buoi_06.app-packageDebugResources-3 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+edu.hcmute.buoi_06.app-debug-4 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\build\intermediates\merged_res\debug\mergeDebugResources
+edu.hcmute.buoi_06.app-debug-5 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\src\debug\res
+edu.hcmute.buoi_06.app-main-6 D:\CODE\25810050_NguyenThienVong_android\BUOI_06\app\src\main\res
+gradleHome-0 C:\Users\admin\.gradle

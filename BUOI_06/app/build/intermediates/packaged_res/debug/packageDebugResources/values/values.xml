@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="affirmation1">Affirmation 1</string>
+    <string name="affirmation10">Affirmation 10</string>
+    <string name="affirmation2">Affirmation 2</string>
+    <string name="affirmation3">Affirmation 3</string>
+    <string name="affirmation4">Affirmation 4</string>
+    <string name="affirmation5">Affirmation 5</string>
+    <string name="affirmation6">Affirmation 6</string>
+    <string name="affirmation7">Affirmation 7</string>
+    <string name="affirmation8">Affirmation 8</string>
+    <string name="affirmation9">Affirmation 9</string>
+    <string name="app_name">BUOI_06</string>
+</resources>
