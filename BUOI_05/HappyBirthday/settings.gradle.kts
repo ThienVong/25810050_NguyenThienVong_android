@@ -22,10 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyApplication"
+rootProject.name = "Happy Birthday"
 include(":app")
-include(":BUOI_4")
-include(":BUOI_3")
-include(":BUOI_06:app")
-include(":BUOI_05:DiceRoller:app")
-include(":BUOI_05:HappyBirthday:app")
+ 
