@@ -1,0 +1,19 @@
+Validation date: 2026-10-12
+Environment: Windows, Java 25, Gradle 9.6.0
+
+com.example.dessertclicker.DessertViewModelTest: 2 tests, 0 failures, 0 errors
+com.example.unscramble.ui.test.GameViewModelTest: 5 tests, 0 failures, 0 errors
+com.example.unscramble.ui.test.ReplayTest: 1 tests, 0 failures, 0 errors
+
+Total: 8 unit tests passed.
+Command: gradlew.bat assembleDebug testDebugUnitTest assembleDebugAndroidTest --console=plain --max-workers=2
+Result: BUILD SUCCESSFUL.
+Debug application and Android test APKs compiled successfully.
+Device UI tests NOT executed: no Android device connected during validation.
+Run connectedDebugAndroidTest after connecting a device.
+
+Generated APKs (ignored by Git):
+dessertviewmodel/build/outputs/apk/androidTest/debug/dessertviewmodel-debug-androidTest.apk
+dessertviewmodel/build/outputs/apk/debug/dessertviewmodel-debug.apk
+unscramble/build/outputs/apk/androidTest/debug/unscramble-debug-androidTest.apk
+unscramble/build/outputs/apk/debug/unscramble-debug.apk
